@@ -14,13 +14,14 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/viewbday"
-        android:scaleType="centerCrop" />
+        android:src="@drawable/bdayCupcake"
+        android:scaleType="centerInside" />
 
     <TextView
         android:id="@+id/text1"
         style="@style/BdayTheme"
-        android:text="@string/text_top" />
+        android:text="@string/text_top"
+        android:textSize="50dp" />
 
     <TextView
         android:id="@+id/text2"

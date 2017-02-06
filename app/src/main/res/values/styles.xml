@@ -14,9 +14,9 @@
         <item name="android:gravity">center_horizontal</item>
         <item name="android:padding">20dp</item>
         <item name="android:layout_centerHorizontal">true</item>
-        <item name="android:typeface">serif</item>
         <item name="android:textSize">30dp</item>
         <item name="android:textColor">#000</item>
+        <item name="android:typeface">serif</item>
         <item name="android:background">#4Dffffff</item>
     </style>
 
