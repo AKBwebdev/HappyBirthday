@@ -14,7 +14,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/bdayCupcake"
+        android:src="@drawable/bdaycupcake"
         android:scaleType="centerInside" />
 
     <TextView

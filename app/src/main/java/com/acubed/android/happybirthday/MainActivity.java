@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        tv1=(TextView) findViewById(R.id.text1);
+       /* tv1=(TextView) findViewById(R.id.text1);
         tv2=(TextView) findViewById(R.id.text2);
 
         Typeface face1 = Typeface.createFromAsset(getApplicationContext().getAssets(),
@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
         tv1.setTypeface(face1);
         Typeface face2 = Typeface.createFromAsset(getApplicationContext().getAssets(),
                 "font/DroidSerif-Regular.ttf");
-        tv2.setTypeface(face2);
+        tv2.setTypeface(face2);*/
     }
 }
